@@ -1,0 +1,5 @@
+{
+  "cases/login/test_wrongLogin.py::Test_wrongLogin::()::test_UI_0001": true,
+  "cases/login/test_wronglogin.py::Test_wrongpassword::()::test_C001003": true,
+  "cases/login/test_wronglogin.py::Test_\u9519\u8bef\u5bc6\u7801::()::test_C001003": true
+}
